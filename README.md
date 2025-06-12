@@ -1,7 +1,11 @@
 **Name**:KORIKANA SRIJA
+
 **Company name**:CODETECH IT SOLUTIONS
+
 **ID**:CT04DF1772
+
 **Domain**:VLSI
+
 **Duration**:MAY TO JUNE 2025
 
 **Overview of the Topic**(Arithmetic Logic Unit - ALU):
@@ -15,6 +19,7 @@ The primary objective of this project is to:
    * AND (bitwise)
    * OR (bitwise)
    * NOT (bitwise)
+   
 **Key Activities**:
 Based on the "Deliverable" section, the key activities would include:
  * Design Phase:
@@ -32,6 +37,7 @@ Based on the "Deliverable" section, the key activities would include:
    * Ensuring the ALU correctly performs all specified operations for various input values.
  * Report Generation:
 * Compiling a simulation report detailing the design, implementation, test cases, and simulation results.
+  
 **Technologies Used**:
 The image explicitly mentions the following technologies:
  * Verilog: A hardware description language (HDL) used for modeling electronic systems.
