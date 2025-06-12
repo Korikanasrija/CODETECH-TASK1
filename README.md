@@ -1,8 +1,8 @@
-**Name**:KORIKANA SRIJA
-**Company name**:CODETECH IT SOLUTIONS
-**ID**:CT04DF1772
-**Domain**:VLSI
-**Duration**:MAY TO JUNE 2025
+**Name**:KORIKANA SRIJA\n
+**Company name**:CODETECH IT SOLUTIONS\n
+**ID**:CT04DF1772\n
+**Domain**:VLSI\n
+**Duration**:MAY TO JUNE 2025\n
 
 **Overview of the Topic**(Arithmetic Logic Unit - ALU):
 An ALU is a core component of a central processing unit (CPU). It performs all arithmetic operations (like addition and subtraction) and all logical operations (like AND, OR, NOT). It takes operands (data to be operated on) and a control signal (indicating which operation to perform) as inputs, and produces a result along with status flags (e.g., carry, zero, overflow). The complexity of an ALU varies greatly depending on the processor it's designed for, from simple units in microcontrollers to highly complex ones in modern multi-core CPUs.
